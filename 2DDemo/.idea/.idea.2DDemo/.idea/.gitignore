@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.2DDemo.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\kelme\Documents\GitHub\2d-template-Spakelios\2DDemo\.idea\.idea.2DDemo\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
