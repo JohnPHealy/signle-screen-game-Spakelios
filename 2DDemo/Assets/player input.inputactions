@@ -91,7 +91,7 @@
                 },
                 {
                     "name": "",
-                    "id": "b02e05c0-0968-403c-940d-7a94fe212450",
+                    "id": "ec7da94f-c815-42c2-bba2-5c75ed9cc0a3",
                     "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
@@ -107,7 +107,13 @@
         {
             "name": "keyboard",
             "bindingGroup": "keyboard",
-            "devices": []
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
         },
         {
             "name": "controller",
