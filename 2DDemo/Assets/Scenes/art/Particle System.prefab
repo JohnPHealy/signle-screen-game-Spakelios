@@ -4836,6 +4836,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: lift
       objectReference: {fileID: 0}
+    - target: {fileID: 4985914921483884990, guid: 278d565bb5ad210478b2d21d7a5f3541, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6709042590775659726, guid: 278d565bb5ad210478b2d21d7a5f3541, type: 3}
       propertyPath: m_RootOrder
       value: 0

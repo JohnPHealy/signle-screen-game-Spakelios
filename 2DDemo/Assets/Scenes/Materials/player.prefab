@@ -150,6 +150,14 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 184023dc-2a5a-40d0-abd7-75e83529aa6a
     m_ActionName: gameplay/jump[/Keyboard/space]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 0816cce9-5276-4376-aca6-8434f4e5f2b7
+    m_ActionName: gameplay/Pause[/Keyboard/p]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: b887e6b3-196f-43ad-9261-e38e983bd8f1
+    m_ActionName: gameplay/Shoot[/Keyboard/enter]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: keyboard
   m_DefaultActionMap: gameplay
@@ -325,7 +333,7 @@ MonoBehaviour:
   m_ActionEvents:
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 5504477042485947617}
         m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
         m_MethodName: Move
         m_Mode: 0
@@ -341,7 +349,7 @@ MonoBehaviour:
     m_ActionName: gameplay/move[/Keyboard/a,/Keyboard/d,/Keyboard/leftArrow,/Keyboard/rightArrow]
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 5504477042485947617}
         m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
         m_MethodName: Jump
         m_Mode: 0
@@ -355,6 +363,14 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 184023dc-2a5a-40d0-abd7-75e83529aa6a
     m_ActionName: gameplay/jump[/Keyboard/space]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 0816cce9-5276-4376-aca6-8434f4e5f2b7
+    m_ActionName: gameplay/Pause[/Keyboard/p]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: b887e6b3-196f-43ad-9261-e38e983bd8f1
+    m_ActionName: gameplay/Shoot[/Keyboard/enter]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: keyboard
   m_DefaultActionMap: gameplay
